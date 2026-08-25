@@ -1,4 +1,4 @@
-package com.breakbreakerpro
+package com.fortdice.breakbreakerpro
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

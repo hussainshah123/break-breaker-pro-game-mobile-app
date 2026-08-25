@@ -67,7 +67,7 @@ export default function Home({ navigate }) {
         <NeonButton title="SETTINGS" variant="ghost" onPress={() => navigate('settings')} />
       </View>
 
-      <AdBanner style={styles.banner} />
+      {/* <AdBanner style={styles.banner} /> */}
     </View>
   );
 }

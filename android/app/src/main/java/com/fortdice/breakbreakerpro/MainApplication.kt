@@ -1,4 +1,4 @@
-package com.breakbreakerpro
+package com.fortdice.breakbreakerpro
 
 import android.app.Application
 import com.facebook.react.PackageList

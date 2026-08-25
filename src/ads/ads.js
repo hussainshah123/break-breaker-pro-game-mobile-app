@@ -25,8 +25,8 @@ import mobileAds, {
  * "Interstitial" in the AdMob console and paste it into `interstitial`.
  */
 const AD_UNITS = {
-  banner: 'ca-app-pub-9318693466829633/6216977418',
-  interstitial: 'ca-app-pub-9318693466829633/6216977418', // TODO: replace with a real Interstitial unit ID
+  banner: 'ca-app-pub-4687548663016677/8867857762',
+  interstitial: 'ca-app-pub-4687548663016677/8867857762', // TODO: replace with a real Interstitial unit ID
 };
 
 // Google's test units are mandatory during development: requesting live ads
